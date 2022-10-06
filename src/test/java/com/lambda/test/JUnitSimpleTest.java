@@ -15,7 +15,7 @@ import java.time.Duration;
 import java.util.ArrayList;
 import java.util.Set;
 
-public class JUnit_Simple_Test {
+public class JUnitSimpleTest {
 	String username = "sanjaywaware04";
 	String accesskey = "i6I2yqGQJTSjxYMwkhvy3LHTBHin6XJmTAOpAa729s18AqC5U3";
 	String hub = "@hub.lambdatest.com/wd/hub";

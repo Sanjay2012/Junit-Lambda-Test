@@ -1,0 +1,4 @@
+com\lambda\test\JUnitSimpleTest.class
+com\lambda\test\Parallelized$ThreadPoolScheduler.class
+com\lambda\test\Parallelized.class
+com\lambda\test\JUnitConcurrentTest.class
